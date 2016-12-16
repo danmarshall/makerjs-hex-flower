@@ -1,0 +1,25 @@
+{
+  "name": "makerjs-hex-flower",
+  "version": "1.0.0",
+  "description": "Hexagons arranged in a flower formation, for Maker.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmarshall/makerjs-hex-flower.git"
+  },
+  "keywords": [
+    "makerjs"
+  ],
+  "author": "Dan Marshall",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/danmarshall/makerjs-hex-flower/issues"
+  },
+  "homepage": "https://github.com/danmarshall/makerjs-hex-flower#readme",
+  "dependencies": {
+    "makerjs": "^0.9.23"
+  }
+}
